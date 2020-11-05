@@ -1,0 +1,27 @@
+{
+  "name": "microserviciocliente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naysha-Briyit/MicroservicioCliente.git"
+  },
+  "author": "Naysha Briyit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naysha-Briyit/MicroservicioCliente/issues"
+  },
+  "homepage": "https://github.com/Naysha-Briyit/MicroservicioCliente#readme"
+}
